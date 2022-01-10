@@ -131,7 +131,7 @@
             ],
             "properties": {
                 "resource": {
-                    "throughput": 4000
+                    "throughput": 400
                 }
             }
         },
